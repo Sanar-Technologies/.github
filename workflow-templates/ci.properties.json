@@ -1,0 +1,6 @@
+{
+  "name": "Sanar CI",
+  "description": "Standard CI workflow for Sanar Technologies projects",
+  "iconName": "octicon check-circle",
+  "categories": ["Node", "CI"]
+}
