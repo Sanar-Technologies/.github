@@ -20,7 +20,7 @@ Building developer tools that make complex workflows simple.
 | [lattice](https://github.com/Sanar-Technologies/lattice) | Code intelligence & semantic search engine | 0.5.0-alpha |
 | [forge](https://github.com/Sanar-Technologies/forge) | FFI binding generator (Rust, TypeScript, Python, Go, Cap'n Proto) | 0.1.0 |
 | [axon](https://github.com/Sanar-Technologies/axon) | High-performance messaging infrastructure with LLM Gateway | 0.1.0 |
-| [sanar-desktop](https://github.com/Sanar-Technologies/sanar-desktop) | Cross-platform desktop workspace app | 0.1.0 |
+| [desktop](https://github.com/Sanar-Technologies/desktop) | Cross-platform desktop workspace app | 0.1.0 |
 
 ## Architecture
 
@@ -58,8 +58,8 @@ Building developer tools that make complex workflows simple.
 
 ```powershell
 # Clone and bootstrap (Windows)
-git clone https://github.com/Sanar-Technologies/sanar-desktop.git
-cd sanar-desktop
+git clone https://github.com/Sanar-Technologies/desktop.git
+cd desktop
 flutter pub get
 cargo build --release
 ```
